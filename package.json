@@ -1,0 +1,11 @@
+{
+  "name": "node-introduction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marcin Brach <marcin.brc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "lodash": "^4.17.4"
+  }
+}

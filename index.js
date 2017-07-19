@@ -1,3 +1,3 @@
 const { getBuses } = require("./bus");
 
-getBuses(buses => console.log(buses));
+getBuses().then(buses => console.log(buses)).catch(err => console.error(err));
