@@ -1,4 +1,0 @@
-lp imie godziny stawka
-1 Andrzej 2 10PLN
-2 Janusz 3 100PLN
-3 Maks 100 5PLN
