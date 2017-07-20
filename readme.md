@@ -8,3 +8,9 @@ module.exports = exports = moduł
 5. HTTP
 6. fetch data
 7. bus module, http server
+
+```
+  "dependencies": {
+    "bus": "git+https://github.com/mbrc27/node-introduction.git/"
+  }
+```
